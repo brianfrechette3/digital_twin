@@ -1,0 +1,153 @@
+personal information:
+    name: Brian Frechette
+    contact information: 
+        email: brianfrechette1@yahoo.com
+        cell phone number: (603) 718-2765
+    
+
+personal websites:
+    professional portfolio website: https://www.brianfrechette.me
+    linkedin profile: https://www.linkedin.com/in/brian-frechette
+    github profile: https://www.github.com/brianfrechette3
+
+
+education:
+    degree name: Master of Science in Engineering in Artificial Intelligence (MSE-AI)
+    university / college: University of Pennsylvania
+    degree type: Master of Science
+    prequisite courses: Deep Learning, Natural Language Processing (NLP), GPU Programming, Machine Learning Ops, Artificial Intelligence Ethics
+    start date: Jan 2025 (Expected)
+    end date: TBD
+    degree started: false
+    degree completed: false
+
+    degree name: Master of Computer Information Technology (MCIT)
+    university / college: University of Pennsylvania
+    degree type: Masters
+    grade point average (GPA): 4.0 / 4.0
+    requisite courses: Software Design, Data Structures, Algorithms, Big Data Analytics, Data Science for ML, Statistical Machine Learning, Introduction to Artificial Intelligence
+    start date: August 2022
+    end date: May 2024
+    degree started: true
+    degree completed: true
+
+    degree name: Bachelor of Science in Mechanical Engineering
+    university / college: University of Connecticut
+    degree type: Bachelor of Science
+    concentration: Aerospace
+    grade point average (GPA): 3.85 / 4.00
+    honors: cum laude
+    requisite courses": Computational Mechanics, Propulsion, Thermodynamics, Heat Transfer
+    start date": August 2017
+    end date": May 2021
+    degree started: true
+    degree completed": true
+    
+
+work experience / job history:
+    company: RTX - Pratt & Whitney
+    job title: "Senior Analytics Engineer
+    job description / responsibilities:
+        - Serving as technical lead in a cross-functional project harmonizing several enterprise tools into central platform to decrease tool fragmentation, increase tool scalability, and provide a single source of truth for data outputs
+    start date: May 2024
+    end date: Current
+    current job: true
+    previous job was working as an Analytics Engineer II at RTX - Pratt & Whitney
+
+    company: RTX - Pratt & Whitney,
+    job title: Analytics Engineer II,
+    job description / responsibilities:
+        - Trained a random forest machine learning model to predict engine shop visit cost with 90% accuracy for use in maximizing revenue over engine contract,
+        - Refactored app’s ETL process to reduce runtime by 98% by identifying and replacing inefficient Python code with SQL,
+        - Performed engine failure time analysis by fitting field data to Weibull probability distributions to assess engine design improvements relative to their expectation
+    start date: June 2023,
+    end date: May 2024,
+    current job: false,
+    previous job was working as an Analytics Engineer I at RTX - Pratt & Whitney
+    next job was working as a Senior Analytics Engineer at RTX - Pratt & Whitney
+
+    company: RTX - Pratt & Whitney,
+    job title: Analytics Engineer I,
+    job description / responsibilities:
+        - Developed analytic to recommend cost-optimized engine work scopes to maintenance engineers by extracting current engine data, work scope benefit estimates, and engine life requirements
+        - Automated process to generate and email engine data report to maintenance engineers when an engine needs maintenance, providing an estimated time savings of 5 hours per engine event
+        - Leveraged full-stack software development via Agile, Git, and Django (Python, JavaScript, HTML, ORM) to deploy Python / SQL based analytics, using common data libraries (NumPy, pandas, scikit-learn, SciPy, Matplotlib, seaborn)
+    start date: October 2022
+    end date: June 2023
+    current job: false
+    previous job was working as a Systems Engineer II at TRIUMPH
+    next job was working as a Analytics Engineer II at RTX - Pratt & Whitney
+
+    company: TRIUMPH
+    job title: Systems Engineer II
+    job description / responsibilities
+        - Developed thermal system models using Engineering Equation Solver (EES) to design and analyze legacy and prototype environmental control systems (ECS) in response to new business requests (RFP, RFQ, RFI)
+        - Wrangled performance analysis data and generated relevant data visualizations to highlight stakeholders’ key interests
+        - Communicated with external stakeholders to clarify requirements and present current status and final output
+    start date: June 2021
+    end date: October 2022
+    current job: false
+    previous job was working as a Systems Engineering Intern at TRIUMPH
+    next job was working as an Analytics Engineer I at RTX - Pratt & Whitney
+
+
+personal projects
+    project title: Professional Portolio Website
+    project description
+        - Built and deployed website to serve as professional portfolio, showcasing my education, job history, personal projects, and personal AI assistant
+        - Leveraged the Python Flask framework for full stack development with supplemental Javascript, HTML, and CSS
+        - Developed AI assistant to answer questions about my personal hobbies, interests, and career
+        - Implemented a retrieval augmented generation (RAG) based large language model (LLM) architecture for my AI assistant, leveraging Pinecone for a vector store, OpenAI API for an LLM, and langchain for chaining, prompting, and session memory management
+    project date: August 2024
+    technologies: Python, Flask, langchain, Pinecone, OpenAI, retrieval augmented generation (RAG), large language model (LLM), JavaScript, HTML, CSS, bootstrap
+
+    project title: Machine Learning Project - Predicting Mortality Rate
+    project description:
+        Performed exploratory data analysis (EDA) to examine data format, data quality, and available features using pandas library
+        Cleaned dataset by imputation, normalization, and use of PCA to address multicollinearity and/or overfitting in the dataset
+        Explored basic linear regression models and regularization techniques (ridge and lasso) for predicting mortality rate
+        Built several iterations of random forest regressor models using hyperparameter tuning with randomized and grid cross validation search to ultimately achieve an R2 score of 0.99 (maximum score is 1.0) and RMSE of 12 deaths per 1000 people
+    project date: April 2024
+    dataset: Country Health Nutirition and Population
+    dataset source: Kaggle
+
+
+skills:
+    technical skills:
+        Python
+        Django
+        pandas
+        numpy
+        Apache Spark
+        pyspark
+        Databricks
+        sklearn
+        Matplotlib
+        seaborn
+        langchain
+        Pinecone
+        large language models
+        LLM
+        retrieval augmented generation
+        RAG
+        vector databases
+        SQL
+        Java
+        JavaScript
+        HTML
+        C
+        Git
+        Azure
+        Github
+        Jira
+        Confluence
+        Agile
+        Scrum
+    
+    soft skills:
+        technical lead
+        product management
+        project management
+        stakeholder alignment
+        effective communication
+        organization
